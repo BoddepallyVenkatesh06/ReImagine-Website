@@ -34,8 +34,6 @@ The ReImagine Website project is focused on developing a cutting-edge, interacti
 ![Feature Page](https://github.com/BoddepallyVenkatesh06/ReImagine-Website/blob/main/Screenshot_2.png)
 ![Responsive Design](https://github.com/BoddepallyVenkatesh06/ReImagine-Website/blob/main/Screenshot_3.png)
 
-*Add more screenshots or GIFs as needed*
-
 ## Technologies Used 🖥️
 
 - **Frontend**: HTML, CSS, JavaScript, React.js
